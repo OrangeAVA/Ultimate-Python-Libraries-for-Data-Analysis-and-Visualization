@@ -1,2 +1,2 @@
-# Mastering Large Language Models with Python
-Mastering Large Language Models with Python, published by Orange, AVA™
+# Ultimate Python Libraries for Data Analysis and Visualization
+Ultimate Python Libraries for Data Analysis and Visualization, published by Orange, AVA™
